@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/DbScripts/">
+    <File Path="scriptsCriacao.sql" />
+  </Folder>
+  <Project Path="ProgramacaoDoZero/ProgramacaoDoZero.csproj" />
+</Solution>
